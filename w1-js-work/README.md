@@ -1,5 +1,5 @@
 # vanilla-js-template
-Vanilla JS Project template for Modanisa Bootcamp
+Vanilla JS Project template for Bootcamp
 
 
 First, you need to ensure that `yarn` installed on your pc.
@@ -24,7 +24,7 @@ For the first assigment, you need to prepare a login screen which is centered on
 - You need to center login card both vertically and horizontally.
 - All elements inside the login card should be centered.
 - For bonus points, you need to give pay extra attention to the colors, border radius fonts.
-![This is an image](assets/login-screen.png)
+![This is an image](w1-js-work/assets/login-screen.png)
 
 
 ## Assignment-2 (Linkedin Post)
@@ -37,7 +37,7 @@ For this assigment, you need to prepare a Linkedin post.
 - For bonus points, you need to give pay extra attention to the colors, border radius and fonts.
 
 
-![This is an image](assets/linkedin-post.png)
+![This is an image](w1-js-work/assets/linkedin-post.png)
 
 ## Assignment-3 (JS Practice)
 This assigment is about JS. All the steps you need to complete written in app.js file.
