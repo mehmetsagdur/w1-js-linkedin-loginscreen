@@ -1,5 +1,5 @@
 # vanilla-js-template
-Vanilla JS Project template for Bootcamp
+Vanilla JS Project template for Modanisa Bootcamp
 
 
 First, you need to ensure that `yarn` installed on your pc.
